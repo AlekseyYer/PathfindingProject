@@ -1,5 +1,6 @@
 # A* Pathfinding on a Hexagonal Grid in Unreal Engine 5
-
+## Where to find my source code **
+- Click on source - > PathfindingProject - > Feel free to check out my code :)
 ## Overview
 This project is a custom implementation of the A* pathfinding algorithm in Unreal Engine 5 tailored for a hexagonal grid, built entirely from an empty project with a primary focus on C++. 
 
